@@ -24,5 +24,5 @@ Lab Start Times: 12:00
 Lab End Times: 14:00  
 Lab Days: Wednesday  
 Lab link: https://www.google.ca/  
---------  
+`--------  `
 (if you want to add more classes, just do the same thing above again after the -------)
